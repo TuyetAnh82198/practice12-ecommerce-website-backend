@@ -1,0 +1,27 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production MONGO_USER=antu12666 MONGO_PASS=PDqQAHKRoaGJfjSk CLIENT_ID=939872048421-hmli3j5ce4hgdgj72d426ujdl2o349vt.apps.googleusercontent.com CLIENT_SECRET=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 RF_TOKEN=1//04lpwHKgaZeSFCgYIARAAGAQSNwF-L9IrwLrttDUC2km9X8Wx42OI1mgegFdkq2BpGXPMDGFGHyYIOWinH-JjFkV1MjhWgVjSDyc WEBSITE_FOR_CLIENT=http://localhost:3000/ WEBSITE_FOR_ADMIN_PRODUCTS=http://localhost:3001/products WEBSITE_FOR_ADMIN_LOGIN=http://localhost:3001/login node app.js",
+    "start-server": "node app.js",
+    "start:dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-mongodb-session": "^3.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "google-auth-library": "^9.0.0",
+    "mongoose": "^7.4.3",
+    "nodemailer": "^6.9.4"
+  }
+}
