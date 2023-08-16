@@ -5,7 +5,7 @@
     "CLIENT_ID": "939872048421-hmli3j5ce4hgdgj72d426ujdl2o349vt.apps.googleusercontent.com",
     "CLIENT_SECRET": "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",
     "RF_TOKEN": "1//04iFMNhcEyDeGCgYIARAAGAQSNwF-L9IrGZhLOhgDVYurwF1eIl9K0BfpaZbk68EqMdWDIoMXuxJ6DH618PCX0pHvhwfIdvjjjyY",
-    "WEBSITE_FOR_CLIENT": "https://node-a3-frontend-client-1e11a.web.app/",
+    "WEBSITE_FOR_CLIENT": "https://node-a3-frontend-client-68799.web.app/",
 
     "WEBSITE_FOR_ADMIN_PRODUCTS": "https://node-a3-frontend-admin.web.app/products",
     "WEBSITE_FOR_ADMIN_LOGIN": "https://node-a3-frontend-admin.web.app/login"
